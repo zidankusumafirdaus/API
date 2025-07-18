@@ -2,7 +2,6 @@
 ```json
 [
   {
-    "HomeJudul": <string>,
     "HomeDeskripsi": <string>,
   }
 ]
