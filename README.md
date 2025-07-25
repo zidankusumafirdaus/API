@@ -92,6 +92,7 @@ Statis: Judul (tentang komunitas kami, Visi & Misi)
       "Status": <enum>,
       "DeskripsiSingkatProject": <string>,
       "Kontributor": <ngga tau>,
+      "ForeignKey": project page by ID
     }
   ]
 
@@ -101,6 +102,7 @@ Statis: Judul (tentang komunitas kami, Visi & Misi)
       "Status": <enum>,
       "DeskripsiSingkatProject": <string>,
       "Kontributor": <ngga tau>,
+      "ForeignKey": project page by ID
     }
   ]
 }
