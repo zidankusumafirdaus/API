@@ -27,7 +27,7 @@ Statis: Judul (tentang komunitas kami, Visi & Misi)
     {
       "NamaLengkap": <string>,
       "PhotoProfile": <ngga tau>,
-      "Role": pembimbing,
+      "Jabatan": pembimbing,
       "MemberDeskripsi": <string>,
       "GitHub": <string>,
       "LinkedIn": <string>,
@@ -40,7 +40,7 @@ Statis: Judul (tentang komunitas kami, Visi & Misi)
     {
       "NamaLengkap": <string>,
       "PhotoProfile": <ngga tau>,
-      "Role": member,
+      "Jabatan": member,
       "Generasi": <enum>,
       "MemberDeskripsi": <string>,
       "GitHub": <string>,
@@ -54,7 +54,7 @@ Statis: Judul (tentang komunitas kami, Visi & Misi)
     {
       "NamaLengkap": <string>,
       "PhotoProfile": <ngga tau>,
-      "Role": member,
+      "Jabatan": member,
       "Generasi": <enum>,
       "MemberDeskripsi": <string>,
       "GitHub": <string>,
@@ -68,7 +68,7 @@ Statis: Judul (tentang komunitas kami, Visi & Misi)
     {
       "NamaLengkap": <string>,
       "PhotoProfile": <ngga tau>,
-      "Role": member,
+      "Jabatan": member,
       "Generasi": <enum>,
       "MemberDeskripsi": <string>,
       "GitHub": <string>,
